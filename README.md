@@ -1,5 +1,7 @@
 # Data-Youth-Campas(2023-2)
-- 데이터 청년 캠퍼스 실습 및 팀 프로젝트 
+- 데이터 청년 캠퍼스 실습 및 팀 프로젝트
+
+프로젝트 정리 Notion 링크 : https://www.notion.so/8d7812db43a74b14af4e2c9d4680ce1d?pvs=4 
 ## Description
 ### subject
 - 서울시 유사지역 내 소비행태 비교분석 및 미비 업종 진단
